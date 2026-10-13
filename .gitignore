@@ -8,3 +8,5 @@ db.sqlite3
 .coverage
 htmlcov/
 .vscode/
+GUIA_M51.md
+GUIA_VSCODE.md
